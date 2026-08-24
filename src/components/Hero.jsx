@@ -26,7 +26,7 @@ export default function Hero() {
 
       <div className="absolute inset-0 flex max-w-3xl flex-col justify-end gap-4 px-5 pb-20 md:justify-center md:gap-6 md:px-10 md:pb-0">
         <Reveal as="span" className="self-start rounded-full bg-accent/15 px-3.5 py-1.5 text-[11.5px] font-bold uppercase tracking-widest text-accent">
-          Rural Gambia · West Africa
+         Gambia · West Africa
         </Reveal>
         <Reveal as="h1" delay={80} className="font-display text-[44px] font-extrabold leading-[0.98] tracking-tighter md:text-[60px] lg:text-[76px]">
           A SMILE ON EVERY FACE

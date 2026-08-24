@@ -71,7 +71,7 @@ export const programs = [
     tag: 'Ramadan',
     meta: '120 households listed',
     title: 'Ramadan food supply',
-    img: '/img/givingOne.jpeg',
+    img: '/img/ramadanChari.jpeg',
     position: 'center top',
     alt: 'Food packages handed to a family',
     short: 'Food packages delivered before the holy month, so households can observe Ramadan with dignity and care.',
