@@ -1,5 +1,5 @@
 export const contact = {
-  phone: '+220 7438242 / 3799053',
+  phone: '+220 87743824 / 833799053',
   phoneUk: '+44 7887516012',
   email: 'jamsaifamilyfoundation@gmail.com',
   location: 'Gambia, West Africa',
@@ -47,7 +47,7 @@ export const programs = [
     tag: 'Year round',
     meta: 'Greater Banjul & rural',
     title: 'Clothing reuse & upcycling',
-    img: '/img/cloths.jpeg',
+    img: '/img/clothsss.jpeg',
     position: 'center top',
     alt: 'Clothing sorted for distribution',
     short: 'Clean, gently used clothing collected, sorted and distributed to families facing hardship: comfort and dignity, not cast-offs.',
@@ -196,7 +196,7 @@ export const volunteerFaqs = [
 export const newsPosts = [
   { tag: 'Clothing campaign', title: 'A season of sorting', img: '/img/cloths.jpeg', body: 'How donated clothing gets from a bag on a doorstep to a family in a rural village.' },
   { tag: 'School supplies', title: 'Attendance is the measure', img: '/img/GroupThree.jpeg', body: 'Village elders on what changed once children had their own books and bags.' },
-  { tag: 'Ramadan', title: 'Packing for the month', img: '/img/MoneyFamily.jpeg', body: 'What goes into a food package, and how households are chosen.' }
+  { tag: 'Fundraising', title: ' A total of D476,850 ($6,812)', img: '/img/MoneyFamily.jpeg', body: 'Raised to support a patient suffering from End Stage Renal Disease to contribute towards a life-saving surgery and treatment in India.' }
 ];
 
 export const gallery = [
