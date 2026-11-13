@@ -32,7 +32,7 @@ export default function Hero() {
           A SMILE ON EVERY FACE
         </Reveal>
         <Reveal as="p" delay={160} className="max-w-lg text-[16.5px] leading-relaxed text-soft md:text-[19px]">
-          Providing grants and donations to less privileged individuals, focusing on rural areas where access to basic needs is limited.
+          Supporting Education, Upcycling and Reuse of Clothing.
         </Reveal>
         <Reveal delay={240} className="flex flex-wrap gap-3 pt-1.5">
           <Link to="/donate" className="animate-pulsering rounded-md bg-accent px-8 py-4 text-base font-bold text-surface transition-transform hover:-translate-y-0.5 hover:bg-accentHi hover:text-surface">
