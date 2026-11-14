@@ -17,7 +17,7 @@ export default function Contact() {
         eyebrow="Say hello"
         title="CONTACT"
         lede="Questions, partnerships, press or collections: we answer everything."
-        img="/img/MoneyFamily.jpeg"
+        img="/img/DembaAndKids.jpeg"
       />
 
       <section className="px-5 py-14 md:px-10 md:py-20">
