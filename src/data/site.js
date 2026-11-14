@@ -80,6 +80,12 @@ export const programs = [
 ];
 
 export const futurePrograms = [
+    {
+    title: 'Youth skills & enterprise',
+    img: '/img/GroupFour.jpeg',
+    alt: 'Young people in training',
+    body: 'Vocational training in ICT, carpentry, tailoring and entrepreneurship to take on youth unemployment.'
+  },
   {
     title: 'Clean water for rural villages',
     img: '/img/borehole water in zimbabwe.jpg',
@@ -92,12 +98,7 @@ export const futurePrograms = [
     alt: 'Midwives at a local clinic',
     body: 'Training midwives and supplying maternal health kits to reduce childbirth complications in rural clinics.'
   },
-  {
-    title: 'Youth skills & enterprise',
-    img: '/img/GroupFour.jpeg',
-    alt: 'Young people in training',
-    body: 'Vocational training in ICT, carpentry, tailoring and entrepreneurship to take on youth unemployment.'
-  }
+
 ];
 
 /** `short` shows on the home page, `bio` on the about page. */
