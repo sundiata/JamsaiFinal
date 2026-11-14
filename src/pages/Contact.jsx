@@ -29,7 +29,7 @@ export default function Contact() {
           </Reveal>
           <Reveal delay={80} className={tile}>
             <strong className={label}>Phone</strong>
-            <span className="text-[15.5px] leading-relaxed">+220 877438242<br />+220 833799053. <br/>+44 7887516012 </span>
+            <span className="text-[15.5px] leading-relaxed">+220 877438242<br />+220 833799053 <br/>+44 7887516012 </span>
            
           </Reveal>
           <Reveal delay={160} className={tile}>
