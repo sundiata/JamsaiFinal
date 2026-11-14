@@ -84,7 +84,7 @@ export const futurePrograms = [
     title: 'Youth skills & enterprise',
     img: '/img/GroupFour.jpeg',
     alt: 'Young people in training',
-    body: 'Vocational training in ICT, carpentry, tailoring and entrepreneurship to take on youth unemployment.'
+    body: 'Vocational training in tailoring, social enterprise and  entrepreneurship to take on youth unemployment.'
   },
   {
     title: 'Clean water for rural villages',
