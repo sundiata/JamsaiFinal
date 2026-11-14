@@ -2,7 +2,9 @@ import PageHeader from '../components/PageHeader.jsx';
 import Reveal from '../components/Reveal.jsx';
 import Stats from '../components/Stats.jsx';
 import TeamCard from '../components/TeamCard.jsx';
-import { aboutStats, impactNote, team } from '../data/site.js';
+import { aboutStats, 
+  
+ e, team } from '../data/site.js';
 
 export default function About() {
   return (
@@ -42,7 +44,7 @@ export default function About() {
         </Reveal>
       </section>
 
-      <Stats items={aboutStats} note={impactNote} />
+      <Stats items={aboutStats}  />
 
       <section className="flex flex-col gap-8 px-5 py-14 md:px-10 md:py-20">
         <Reveal as="h2" className="font-display text-3xl font-extrabold tracking-tighter md:text-[44px]">

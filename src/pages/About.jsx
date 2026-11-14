@@ -42,7 +42,7 @@ export default function About() {
         </Reveal>
       </section>
 
-      <Stats items={aboutStats} note={impactNote} />
+      <Stats items={aboutStats}  />
 
       <section className="flex flex-col gap-8 px-5 py-14 md:px-10 md:py-20">
         <Reveal as="h2" className="font-display text-3xl font-extrabold tracking-tighter md:text-[44px]">

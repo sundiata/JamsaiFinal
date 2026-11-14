@@ -29,8 +29,8 @@ export const stats = [
 export const aboutStats = [
   { value: 1663, label: 'Direct beneficiaries' },
   { value: 17, label: 'Communities reached' },
-  { value: 3, label: 'Schools supported' },
-  { value: 34, label: 'Active members' }
+  { value: 4, label: 'Schools supported' },
+  { value: 40, label: 'Active members' }
 ];
 
 /** Hero slides rotate every 6s on the home page. */
