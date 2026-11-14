@@ -8,8 +8,8 @@ export default function Programs() {
     <main>
       <PageHeader
         eyebrow="What we do"
-        title="PROGRAMS & IMPACT"
-        lede="Three campaigns running today, three more we're building towards. Every one is funded gift by gift."
+        title="PROGRAMS "
+        lede="Two campaigns running now, three more we are building towards.."
         img="/img/cloths.jpeg"
       />
 
