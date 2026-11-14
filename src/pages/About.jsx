@@ -37,7 +37,7 @@ export default function About() {
           </div>
         </Reveal>
         <Reveal delay={120}>
-          <img src="/img/MoneyFamily.jpeg" alt="A family receiving support"
+          <img src="/img/haraunakid.jpeg" alt="A family receiving support"
                className="h-[300px] w-full rounded-xl object-cover md:h-[520px]" />
         </Reveal>
       </section>

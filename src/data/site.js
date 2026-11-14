@@ -17,12 +17,12 @@ export const payment = {
 };
 
 export const impactNote =
-  'From October 2023 to August 2026 we served 1,663 direct beneficiaries across 17 communities, 3 schools and 1 association, through our clothing and school materials donation campaigns.';
+  'Ramadan 120 food pakages are been park hoousehols on the list2026 we served 1,663 direct beneficiaries across 17 communities,  4 schools and 1 association, through our clothing and  school materials donation campaigns.';
 
 export const stats = [
   { value: 1663, label: 'Direct beneficiaries' },
   { value: 17, label: 'Communities reached' },
-  { value: 3, label: 'Schools supported' },
+  { value: 4, label: 'Schools supported' },
   { value: 1, label: 'Partner association' }
 ];
 
@@ -35,7 +35,7 @@ export const aboutStats = [
 
 /** Hero slides rotate every 6s on the home page. */
 export const heroSlides = [
-  { src: '/img/happykids.jpeg', alt: 'Children in a Gambian village', position: 'center 40%' },
+  { src: '/img/schoolChi.jpeg', alt: 'Children in a Gambian village', position: 'center 40%' },
   { src: '/img/groupclear.jpeg', alt: 'Volunteers with a community group', position: 'center 18%' },
   { src: '/img/givingOne.jpeg', alt: 'Food packages handed to a family', position: 'center 15%' }
 ];
@@ -65,18 +65,18 @@ export const programs = [
     short: 'Books, pens, bags and uniforms so children arrive ready, and keep coming back through the whole academic year.',
     body: "We support children's education by providing essential school supplies, helping them stay engaged and prepared to succeed in the classroom."
   },
-  {
-    slug: 'ramadan',
-    num: '03',
-    tag: 'Ramadan',
-    meta: '120 households listed',
-    title: 'Ramadan food supply',
-    img: '/img/ramadanChari.jpeg',
-    position: 'center top',
-    alt: 'Food packages handed to a family',
-    short: 'Food packages delivered before the holy month, so households can observe Ramadan with dignity and care.',
-    body: 'We offer food packages to families in need during the holy month of Ramadan, ensuring households can observe the month with dignity and care.'
-  }
+  // {
+  //   slug: 'ramadan',
+  //   num: '03',
+  //   tag: 'Ramadan',
+  //   meta: '120 households listed',
+  //   title: 'Ramadan food supply',
+  //   img: '/img/ramadanChari.jpeg',
+  //   position: 'center top',
+  //   alt: 'Food packages handed to a family',
+  //   short: 'Food packages delivered before the holy month, so households can observe Ramadan with dignity and care.',
+  //   body: 'We offer food packages to families in need during the holy month of Ramadan, ensuring households can observe the month with dignity and care.'
+  // }
 ];
 
 export const futurePrograms = [
@@ -114,9 +114,9 @@ export const team = [
     name: 'Amie Jammeh',
     role: 'Secretary & Co-founder',
     shortRole: 'Secretary & Co-founder',
-    img: '/img/agieNew.jpeg',
-    short: 'A PhD researcher and educationist leading clothing, school and medical donation drives across the country.',
-    bio: 'A PhD researcher and educationist leading clothing, school and medical donation drives, committed to resilience, empowerment and a stronger sense of community.'
+    img: '/img/SisterSally.jpeg',
+    short: 'A PhD researcher and educationist leading clothing and school  donation drives across the country.',
+    bio: 'A PhD researcher and educationist leading clothing, school  donation drives, committed to resilience, empowerment and a stronger sense of community.'
   },
   {
     name: 'Sefaye Saidy',

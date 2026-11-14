@@ -16,11 +16,11 @@ export default function Home() {
       <section className="flex flex-col gap-7 px-5 py-14 md:gap-9 md:px-10 md:py-20">
         <Reveal className="flex flex-wrap items-end justify-between gap-4 md:gap-10">
           <h2 className="max-w-xl font-display text-3xl font-extrabold leading-tight tracking-tighter md:text-[44px]">
-            THREE CAMPAIGNS, RUNNING RIGHT NOW
+            OUR TWO CAMPAIGNS
           </h2>
-          <p className="max-w-xs text-[15px] leading-relaxed text-muted">
+          {/* <p className="max-w-xs text-[15px] leading-relaxed text-muted">
             Each one is funded gift by gift. Choose where your money goes.
-          </p>
+          </p> */}
         </Reveal>
         <div className="grid gap-4 md:grid-cols-2 md:gap-[22px] xl:grid-cols-3">
           {programs.map((p, i) => <CampaignCard key={p.slug} program={p} delay={i * 90} />)}

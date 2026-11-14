@@ -40,7 +40,7 @@ export default function DonateWidget({ extended = false }) {
             <option value="">Where it's needed most</option>
             <option>Clothing reuse &amp; upcycling</option>
             <option>School supply campaign</option>
-            <option>Ramadan food supply</option>
+            {/* <option>Ramadan food supply</option> */}
           </select>
           <input placeholder="Your name" className={field} />
           <input type="email" placeholder="Email address" className={field} />

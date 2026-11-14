@@ -9,7 +9,7 @@ export default function Gallery() {
         eyebrow="In pictures"
         title="GALLERY"
         lede="Distribution days, community visits and the people who make it happen."
-        img="/img/happykids.jpeg"
+        img="/img/schoolChi.jpeg"
       />
       <section className="px-5 py-14 md:px-10 md:py-20">
         <div className="grid auto-rows-[240px] gap-3 md:auto-rows-[260px] md:grid-cols-2 md:gap-4 xl:grid-cols-3">

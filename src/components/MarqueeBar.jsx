@@ -1,5 +1,5 @@
 const items = [
-  'Ramadan food packages are being packed now, 120 households on the list',
+  // 'Ramadan food packages are being packed now, 120 households on the list',
   'Clothing drive open for donations across Greater Banjul',
   'Back-to-school supplies needed before the new term'
 ];

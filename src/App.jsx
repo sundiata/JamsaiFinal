@@ -24,7 +24,8 @@ export default function App() {
   return (
     <div className="min-h-screen overflow-x-hidden bg-ink text-cream">
       <ScrollToTop />
-      <MarqueeBar />
+      {/* <MarqueeBar /> */}
+      <MarqueeBar />  
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
